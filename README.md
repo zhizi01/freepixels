@@ -1,4 +1,4 @@
-![image](https://github.com/zhizi01/freepixels/assets/88622750/ba4d8d23-d441-4374-b713-b79ce6a72709)# FreePixels - Mods
+# FreePixels - Mods
 FreePixels服务器插件开源项目
 
 # 开发者(排名不算先后)
